@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-exception-handling",
+      "title": "Robust Python: Exception Handling & Input Validation",
+      "description": "Handle errors gracefully with try/except, custom exceptions, and input validation",
+      "path": "assignments/python-exception-handling",
+      "dueDate": "2026-09-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
